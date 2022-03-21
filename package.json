@@ -1,7 +1,7 @@
 {
   "name": "prvi",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "description": "",
   "keywords": [],
   "main": "src/index.js",

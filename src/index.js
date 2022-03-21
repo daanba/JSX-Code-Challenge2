@@ -8,5 +8,3 @@ ReactDOM.render(
   </div>,
   document.getElementById("root")
 );
-
-//ReactDOM.unmountComponentAtNode(document.getElementById('root'));
